@@ -1,4 +1,4 @@
-<a href="https://awwwesome.cz"<p align="center">
+<a href="https://awwwesome.cz"><p align="center">
   <img width="360" height="200" src="awwwesome_logo.png">
 </p></a>
 
